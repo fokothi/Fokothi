@@ -1,6 +1,6 @@
 ## Demo
 
-Programming using Python 
+Programming using Python(MCA)
 
 <!--
 **fokothi/Fokothi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
